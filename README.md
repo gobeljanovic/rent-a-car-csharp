@@ -4,27 +4,29 @@ This is an application for the owner of a car rental company. I did it in C# Win
 ## Functionalities
 ### Home Panel
 - Choosing Vehicle and Time Interval for rent
-- 
+  
 ### Reservations Panel
 - Remove Reservation
 - Add Reservation
 - Edit Reservation
 - Show all Reservations and listing for choosen time interval
+  
 ### Vehicles Panel
-
 - Show all available Vehicles
 - Add new Vehicle
-- 
+  
 ### Categories Panel 
 - Showing all available categories of Vehicles
 - Add new Category
 
 ## Technologies
+- C#
+- .NET Framework
+- VisualStudio
+- ACCESS database 
 
 
-
-
-
+# Screenshots
 ## Home Page
 <img width="696" height="560" alt="Home-page2" src="https://github.com/user-attachments/assets/96473720-539b-4dc0-a001-c6d08d1f810d" />
 <img width="696" height="565" alt="Home-page" src="https://github.com/user-attachments/assets/a7409e0d-d76c-4bcb-888f-1efc4aedbd27" />
